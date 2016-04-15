@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>seven</ImageEffect>
+            <ImageFillColor>#282828</ImageFillColor>
+            <ImageHeight>768</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/gothic/</ImageTemplate>
+            <ImageTemplateName>Gothic</ImageTemplateName>
+            <ImageWidth>1024</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/git/app3/visor/indexwow.html</PublishFileName>
+            <PublishIndex>indexwow.html</PublishIndex>
+            <PublishPath>E:/git/app3/visor</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>99</SlideshowDelay>
+            <SlideshowDuration>19</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>gothic</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/git/app3/visor/imagenes/Banner1.png</url>
+                <description>Gran parte de la destrucción del hábitat y de la contaminación esta basada en el simple principio de que de alguna forma se nos ha dado licencia libre sobre otras especies para degradar el planeta.-Greg Graffin.</description>
+            </Image>
+            <Image>
+                <url>E:/git/app3/visor/imagenes/Banner2.png</url>
+                <description>Nuestro planeta se esta calentando debido a la contaminación de las actividades humanas. Y un calentamiento climático incrementa las probabilidades de clima extremo.-Gloria Reuben.</description>
+            </Image>
+            <Image>
+                <url>E:/git/app3/visor/imagenes/Banner3.png</url>
+                <description>La actividad humana es peor para la naturaleza que el mayor accidente nuclear de la historia.-Martin Cruz Smith.</description>
+            </Image>
+            <Image>
+                <url>E:/git/app3/visor/imagenes/Banner4.png</url>
+                <description>La contaminación nunca debería ser el precio de la prosperidad.-Al Gore.</description>
+            </Image>
+            <Image>
+                <url>E:/git/app3/visor/imagenes/Banner5.png</url>
+                <description>La contaminación ambiental es una enfermedad incurable. Solo puede ser prevenida.-Barry Commoner.</description>
+            </Image>
+            <Image>
+                <url>E:/git/app3/visor/imagenes/Banner6.png</url>
+                <description>Las personas que viven en lugares con altos niveles de contaminación tienen un 20% más de riesgo de contraer cáncer de pulmón.</description>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
